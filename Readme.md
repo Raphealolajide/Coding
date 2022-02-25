@@ -1,4 +1,5 @@
 #Readme
 
-This is Adeola Kay Readme file
-I am making her a website
+This is Adeolakay readme file
+This is cool
+
